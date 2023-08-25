@@ -1,0 +1,95 @@
+
+body{
+    background-image: url(Banners-Charity.webp);
+    background-size: 1500px 600px;
+    background-repeat: no-repeat;    
+}
+
+.GHY{
+    padding-left: 180px;
+
+    margin-top:23px;
+   
+    font-size:x-large ;
+ background: none;
+}
+.TAL{
+    text-align: center;
+    word-spacing: 23px;
+    margin-top: -40px;
+    font-size: 20px;
+}
+a{
+text-decoration: none; 
+   color:white ;
+   
+
+}
+a:hover{
+    text-decoration: underline;
+    text-decoration-color:white ;
+text-decoration-thickness: 2px;
+}
+.chwal{
+ background-color: rgb(255, 204, 0);
+margin-top:600px;
+ display: inline-block;
+ inline-size: 450px 450px 450px 450px;
+ margin-left: 250px;
+ padding: 50px 50px 50px 50px;
+ padding-right: 80px;
+}
+.masala{
+    display: block;
+    font-size:40px;
+}
+.namak{
+    text-decoration: none;
+    border: 5px solid white;
+    font-size:smaller ;
+    padding: 10px;
+    box-shadow: inset;
+}
+p{
+color: black;
+}
+.PIYAZ{
+    margin-top: -300PX;
+   margin-left:600px ;
+   padding-right: 250px;
+}
+.dahi{
+    background-color: rgb(255, 204, 0);
+    border: 4px solid white;
+    color: white;
+    font-size: x-small;
+    padding: 10px;
+    padding-left: 28px;
+    padding-right: 28px;
+}
+.tamato{
+    font-size: larger;
+}
+.rang{
+    font-size: larger;
+}
+hr{
+    background-color: rgb(103, 98, 98);
+}
+.biryani{
+    margin-top: 100px;
+  margin-left:260px;
+}
+/* .chiken{
+    margin-top: -400px;
+} */
+.br{
+    margin-left: 60px;
+}
+.cr{
+    margin-left: 100px;
+}
+.less{
+    color: white;
+    margin-top: 27px;
+}
